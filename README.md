@@ -1,2 +1,2 @@
 # Business_Website
-A website for my cologne reselling business
+An HTML and CSS Front-end for a website for a cologne reselling business
